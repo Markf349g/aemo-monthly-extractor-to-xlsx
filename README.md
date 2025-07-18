@@ -21,15 +21,15 @@ Perfect for analysis, reporting, and integration into business intelligence dash
 
 This tool automatically fetches and updates the monthly Regional Reference Prices (RRP) for all NEM regions (NSW, VIC, QLD, SA, TAS), and exports them to a structured XLSX file for seamless Power BI integration.
 
-\<p\>
-  \<img src="./assets/aemo-logo.jpg" alt="AEMO Data Extraction Flowchart" width="450" /\>
-\</p\>
+<p>
+  <img src="./assets/aemo-logo.jpg" alt="AEMO Data Extraction Flowchart" width="450" />
+</p>
 
 ## 🧪 Sample Output (.xlsx)
 
-\<p\>
-  \<img src="./assets/output-sample.jpg" alt="AEMO Data Extraction Flowchart" width="450" /\>
-\</p\>
+<p>
+  \<img src="./assets/output-sample.jpg" alt="Output Sample" width="450" />
+</p>
 
 ## 📦 Installation
 
