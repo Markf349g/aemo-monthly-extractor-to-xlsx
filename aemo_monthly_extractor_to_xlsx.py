@@ -54,7 +54,8 @@ def app():
     ct_column += 1
     title, value = str(), float()
     print()
-    
+  
+  print('Time: ', datetime.datetime.now())
   recreate('result')
   workbook.save('result/result.xlsx')
         
